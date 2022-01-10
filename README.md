@@ -1,8 +1,7 @@
 #########################################################
-#  README -
 #  Reference-guided de novo assembly
-# ====================================================
-# by Heidi Lischer (heidi.lischer@ieu.uzh.ch), 2015/15
+# 
+#### by Heidi Lischer (heidi.lischer@ieu.uzh.ch), 2015/15
 #########################################################
 
 We adapted and extended the reference-guided assembly approach from Schneeberger et al. [1]. 
@@ -63,9 +62,11 @@ and one of these de novo assemblers:
 ---------
 In first lines of the main scripts you have to adapt the paths to your system.
 (Everything between: 
- # set variables #########################################
+```
+# set variables #########################################
  ...
- #########################################################)
+ #########################################################
+ ```
 
 
 If the parameters are set you can run the pipeline as follows:
